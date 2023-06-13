@@ -4,11 +4,14 @@ image{
 }
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 12px;
+    font-size: 16px;
     max-width: 960px;
     margin: auto;
 }
 h3{
     font-size: 1.em;
     padding-bottom: 1em;
+}
+#mainleft{
+    border-right: solid lightgray;
 }
